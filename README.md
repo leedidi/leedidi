@@ -3,10 +3,10 @@
 
 ### Hello world! I'm Dayoung👋
 💬 <br>
-😄 Hi there, Nice to meet you! <br>
-- 💻 I’m working on SSangyong-gangbuk education center
-- 📖 I’m learning WEB front-end & back-end
-- 👯 I’m looking to collaborate on seolo/final
+😄 Hi there, Nice to meet you! I'm ... <br>
+- 💻 working on SSangyong-gangbuk education center
+- 📖 learning WEB front-end & back-end
+- 👯 collaborate on seolo/final
 
 #
 ### ✡ Skills

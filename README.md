@@ -37,6 +37,11 @@ Here are some ideas to get you started:
 -->
 <!--! [header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=100&section=header) -->
 
-<br>
+#
+<div align="center"> 
+ 
+  ### <a href="mailto:edy9527@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> 📬
+
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=120&section=footer&fontSize=100)

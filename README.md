@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=190&section=header&text=Dayoung's%20Github&fontSize=45)
-# Lee Dayoung&nbsp; <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleedidi&count_bg=%23D099F1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=190&section=header&text=leedidi's%20Github&fontSize=45)
+# leedidi&nbsp; <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleedidi&count_bg=%23D099F1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-### Hello world! I'm Dayoung👋
+### Hello world! I'm leedidi👋
 💬 <br>
 😄 Nice to meet you. I wish you all the best! <br>
 

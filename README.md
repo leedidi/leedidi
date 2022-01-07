@@ -2,7 +2,6 @@
 😄 Nice to meet you!
 
 <br>
-🌱 I’m currently working on ...
 
 ![leedidi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=leedidi&layout=compact&theme=dracula)
 

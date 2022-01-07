@@ -2,7 +2,7 @@
 # leedidi&nbsp; <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleedidi&count_bg=%23D099F1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### Hello world!👋
-💬 I'm fine, Thank you. <br>
+💬 <br>
 😄 Nice to meet you. I wish you all the best! <br>
 
 #
@@ -20,6 +20,8 @@
 **leedidi/leedidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+💬 I'm fine, Thank you. <br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

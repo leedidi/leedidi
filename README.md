@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 <!--
 ![leedidi's github stats](https://github-readme-stats.vercel.app/api?username=leedidi&show_icons=true&theme=material-palenight)![leedidi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=leedidi&layout=compact&theme=material-palenight)
 -->
+<!--! [header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=100&section=header) -->
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=100&section=header)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=120&section=footer&fontSize=100)

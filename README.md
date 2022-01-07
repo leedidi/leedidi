@@ -3,13 +3,14 @@
 
 ### Hello world!👋
 💬 I'm fine, Thank you. <br>
-😄 Nice to meet you!
-<br><br>
+😄 Nice to meet you! <br>
 
-
-<!--
-![leedidi's github stats](https://github-readme-stats.vercel.app/api?username=leedidi&show_icons=true&theme=material-palenight)![leedidi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=leedidi&layout=compact&theme=material-palenight)
--->
+#
+### ✡Skills
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+<br>
 
 ![leedidi's github stats](https://github-readme-stats.vercel.app/api?username=leedidi&show_icons=true&theme=buefy)![leedidi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=leedidi&layout=compact&theme=buefy)
 <br>
@@ -28,7 +29,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+💪 Skills
+✡ Skills
 -->
+<!--
+![leedidi's github stats](https://github-readme-stats.vercel.app/api?username=leedidi&show_icons=true&theme=material-palenight)![leedidi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=leedidi&layout=compact&theme=material-palenight)
+-->
+
 <br>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=100&section=header)

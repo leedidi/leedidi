@@ -1,5 +1,5 @@
 ### Hi there 👋
-😄 Pronouns: Nice to meet you!
+😄 Nice to meet you!
 
 <!--
 **leedidi/leedidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

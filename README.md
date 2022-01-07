@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 -->
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=14&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=100&section=header)

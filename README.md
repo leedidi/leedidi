@@ -6,8 +6,12 @@
 😄 Nice to meet you!
 <br><br>
 
-![leedidi's github stats](https://github-readme-stats.vercel.app/api?username=leedidi&show_icons=true&theme=dracula)![leedidi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=leedidi&layout=compact&theme=dracula)
 
+<!--
+![leedidi's github stats](https://github-readme-stats.vercel.app/api?username=leedidi&show_icons=true&theme=material-palenight)![leedidi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=leedidi&layout=compact&theme=material-palenight)
+-->
+
+![leedidi's github stats](https://github-readme-stats.vercel.app/api?username=leedidi&show_icons=true&theme=buefy)![leedidi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=leedidi&layout=compact&theme=buefy)
 <br>
 
 

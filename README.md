@@ -4,6 +4,9 @@
 ### Hello world! I'm Dayoung👋
 💬 <br>
 😄 Hi there, Nice to meet you! <br>
+- 💻 I’m currently working on SSangyong-gangbuk education center
+- 📖 I’m currently learning WEB front-end & back-end
+- 👯 I’m looking to collaborate on seolo/final
 
 #
 ### ✡ Skills
@@ -41,6 +44,7 @@ Here are some ideas to get you started:
 
 #
 <div align="center"> 
+ If you want to contact me directly, please send me an email😉
  
   ### <a href="mailto:edy9527@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="mailto:edy9527@naver.com" target="_blank"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 📬
 

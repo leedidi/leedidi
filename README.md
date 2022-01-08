@@ -6,7 +6,7 @@
 😄 Hi there, Nice to meet you! I'm ... <br>
 - 💻 working on SSangyong-gangbuk education center
 - 📖 learning WEB front-end & back-end
-- 🧑‍🤝‍🧑 collaborate on seolo/final
+- 🧑‍🤝‍🧑 collaborate on final_seolo
 
 #
 ### ✡ Skills
